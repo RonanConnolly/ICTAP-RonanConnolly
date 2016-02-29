@@ -12,6 +12,11 @@ import javax.swing.JTextField;
 
 public class NewJava extends JPanel {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	//<TYPE> [] <Variable name> 
 	private JTextField[] textFields = new JTextField[18];	//Creating an array to hold my textfields
 	
